@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookstoreApp-React-Firebase/static/css/main.99b0d861.css",
+    "main.js": "/bookstoreApp-React-Firebase/static/js/main.ce9e5069.js",
+    "static/js/787.08f3454f.chunk.js": "/bookstoreApp-React-Firebase/static/js/787.08f3454f.chunk.js",
+    "index.html": "/bookstoreApp-React-Firebase/index.html",
+    "main.99b0d861.css.map": "/bookstoreApp-React-Firebase/static/css/main.99b0d861.css.map",
+    "main.ce9e5069.js.map": "/bookstoreApp-React-Firebase/static/js/main.ce9e5069.js.map",
+    "787.08f3454f.chunk.js.map": "/bookstoreApp-React-Firebase/static/js/787.08f3454f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b0d861.css",
+    "static/js/main.ce9e5069.js"
+  ]
+}
