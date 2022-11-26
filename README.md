@@ -1,4 +1,5 @@
 # Link to the app : https://santeri94.github.io/bookstoreApp-React-Firebase/
+# Firebase test database is expired
 
 # Getting Started with Create React App
 
